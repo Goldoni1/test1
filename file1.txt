@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-testing line
-=======
+testing line update
 untesting file
->>>>>>> 849f37974d56a5e37724a08c92bf6184480a6c06
 commit test
 456
 789
